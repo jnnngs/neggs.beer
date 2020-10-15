@@ -1,13 +1,17 @@
-<span id="a">paul@jnnngs</span>:<span id="b">~</span><span id="c">$</span> cd jnnngs/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
-<span id="a">paul@jnnngs</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->jnnn.gs.txt<br/><br/>
-My favorite code quote, "<span id="k">Hello World!</span>". <!-- sjkfhskjf -->
+<span id="a">neggs.beer</span>:<span id="b">~</span><span id="c">$</span> cd neggs.beer/
+<span id="a">neggs.beer</span>:<span id="b">~</span><span id="c">$</span> mkdir new_brew 
+<span id="a">neggs.beer</span>:<span id="b">~</span><span id="c">$</span> cd  new_brew/ 
+<span id="a">neggs.beer</span>:<span id="b">~</span><span id="c">$</span> cat <brewday>mash | sparge | boil | cool | keg </brewday>
+Ferment, "<span id="k">yeast + sugar = alcohol</span>". 
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Somewhere my career started, back in the days of mainframes.</p>
-<p>I am Paul Jennings, a Principal Architect whom loves everything tech.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> I have worked across private and public sector, enjoying designing and delivering a multitude of digital transformations.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>I am a family man, having two young daughters and a young adult son.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> My professional profiles I have on the internet are: <br> <a href="https://github.com/jnnngs">https://github.com/jnnngs</a>.</p>
-
-You can also contact me on email<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --> <a href="mail:paul@jnnngs">Paul at jnnn dot gs</a>.
+       _
+    ,-'  `-._
+   |=========|
+   (         )
+    | !!    |
+    | !!    |
+    |       |
+    |       | neggs.beer
+    `======='
 
 <p>Cheers!</p>
