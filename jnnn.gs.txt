@@ -2,7 +2,7 @@
 <span id="a">neggs.beer</span>:<span id="b">~</span><span id="c">$</span> mkdir new_brew 
 <span id="a">neggs.beer</span>:<span id="b">~</span><span id="c">$</span> cd  new_brew/ 
 <span id="a">neggs.beer</span>:<span id="b">~</span><span id="c">$</span> cat <brewday>mash | sparge | boil | cool | keg </brewday>
-Ferment, "<span id="k">yeast + sugar = alcohol</span>". 
+Ferment, "<span id="k">yeast + sugar = alcohol</span>". <br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_
 &nbsp;&nbsp;&nbsp;&nbsp;,-'&nbsp;&nbsp;`-._
