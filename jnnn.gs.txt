@@ -4,7 +4,7 @@
 <span id="a">neggs.beer</span>:<span id="b">~</span><span id="c">$</span> cat <brewday>mash | sparge | boil | cool | keg </brewday>
 Ferment, "<span id="k">yeast + sugar = alcohol</span>". <br/>
 
-div style="font-family: monospace, fixed; font-weight: bold;">
+<div style="font-family: monospace, fixed; font-weight: bold;">
 <span style=";color:#aaa;background-color:#fff">&#160;&#160;&#160;&#160;...:.:.:.:.:.:.:.:.:.:.:.:.:.:.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</span><br />
 <span style=";color:#aaa;background-color:#fff">&#160;&#160;.;tttt%tttttttttttttttttttttttttt;.&#160;.&#160;&#160;.&#160;.&#160;&#160;.&#160;&#160;.</span><br />
 <span style=";color:#aaa;background-color:#fff">&#160;.;tt%%tt%t%t%%t%%t%%t%%t%%t%%t%%t%tt.&#160;&#160;&#160;&#160;&#160;&#160;&#160;.&#160;&#160;&#160;&#160;</span><br />
